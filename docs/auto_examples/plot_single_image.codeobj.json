@@ -1,0 +1,410 @@
+{
+ "Noise": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot.transforms.noise",
+   "module_short": "neuroplot.transforms",
+   "name": "Noise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot.transforms",
+   "module_short": "neuroplot.transforms",
+   "name": "Noise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot",
+   "module_short": "neuroplot",
+   "name": "Noise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.augmentation.intensity.random_noise",
+   "module_short": "torchio.transforms.augmentation.intensity",
+   "name": "RandomNoise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.augmentation.intensity",
+   "module_short": "torchio.transforms.augmentation.intensity",
+   "name": "RandomNoise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.augmentation",
+   "module_short": "torchio.transforms.augmentation",
+   "name": "RandomNoise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms",
+   "module_short": "torchio",
+   "name": "RandomNoise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio",
+   "module_short": "torchio",
+   "name": "RandomNoise"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.augmentation.random_transform",
+   "module_short": "torchio.transforms.augmentation",
+   "name": "RandomTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.augmentation",
+   "module_short": "torchio.transforms.augmentation",
+   "name": "RandomTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms",
+   "module_short": "torchio.transforms",
+   "name": "RandomTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio",
+   "module_short": "torchio",
+   "name": "RandomTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.intensity_transform",
+   "module_short": "torchio",
+   "name": "IntensityTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms",
+   "module_short": "torchio",
+   "name": "IntensityTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio",
+   "module_short": "torchio",
+   "name": "IntensityTransform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms.transform",
+   "module_short": "torchio",
+   "name": "Transform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio.transforms",
+   "module_short": "torchio",
+   "name": "Transform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "torchio",
+   "module_short": "torchio",
+   "name": "Transform"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.transforms",
+   "module_short": "neuroplot.transforms",
+   "name": "Noise"
+  }
+ ],
+ "Path": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePath"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path"
+  }
+ ],
+ "SinglePlot": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single.single_plot",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot.plot",
+   "module_short": "neuroplot.plot",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "neuroplot",
+   "module_short": "neuroplot",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot"
+  }
+ ],
+ "data_path": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath"
+  }
+ ],
+ "data_path.mkdir": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath.mkdir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path.mkdir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePosixPath.mkdir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePath.mkdir"
+  }
+ ],
+ "download_path": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath"
+  }
+ ],
+ "image_path": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath"
+  }
+ ],
+ "image_path.exists": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath.exists"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path.exists"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePosixPath.exists"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePath.exists"
+  }
+ ],
+ "plotter": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single.single_plot",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot",
+   "module_short": "neuroplot.plot",
+   "name": "SinglePlot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot",
+   "module_short": "neuroplot",
+   "name": "SinglePlot"
+  }
+ ],
+ "plotter.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single.single_plot",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot.single",
+   "module_short": "neuroplot.plot.single",
+   "name": "SinglePlot.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot.plot",
+   "module_short": "neuroplot.plot",
+   "name": "SinglePlot.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "neuroplot",
+   "module_short": "neuroplot",
+   "name": "SinglePlot.plot"
+  }
+ ],
+ "tar": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "tarfile",
+   "module_short": "tarfile",
+   "name": "TarFile"
+  }
+ ],
+ "tar.extractall": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "tarfile",
+   "module_short": "tarfile",
+   "name": "TarFile.extractall"
+  }
+ ],
+ "tarfile.open": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "module.open"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "tarfile",
+   "module_short": "tarfile",
+   "name": "open"
+  }
+ ],
+ "url": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "urllib.request.urlretrieve": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "urllib.request",
+   "module_short": "urllib.request",
+   "name": "urlretrieve"
+  }
+ ]
+}
